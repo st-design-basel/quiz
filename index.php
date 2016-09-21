@@ -44,7 +44,7 @@
 
         '{"Question":"Which European countrys name stems from the Germanic word for foreig?","Right":"Wales","Wrong1":"Germany","Wrong2":"Spain","Wrong3":"10"}',
 
-        '{"Question":"Which is the largest country in Afreca?","Right":"Algeria","Wrong1":"Sudan","Wrong2":"Mali","Wrong3":"10"}',
+        '{"Question":"Which is the largest country in Africa?","Right":"Algeria","Wrong1":"Sudan","Wrong2":"Mali","Wrong3":"10"}',
 
         '{"Question":"Port Said is in which North African country?","Right":"Egypt","Wrong1":"Tunisia","Wrong2":"Marroco","Wrong3":"10"}',
 
