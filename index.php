@@ -15,4 +15,5 @@ foreach ($errors as $error)
 }
 echo "Banana 2345 new build erer ";
 
+echo json_encode($errors);
 ?>
