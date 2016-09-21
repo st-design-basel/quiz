@@ -4,9 +4,9 @@
     echo "Banana 2345 new build erer ";
 	
 	$errors = array(
-   // '{"ky2": "bar", "ky1": "foo"}',
-  //  '{"ky2": "bar2", "ky1": "foo2"}',
-  'hello','hi'
+ '{"Question":"What is the capital of France?","Right":"Paris","Wrong1":"bern","Wrong2":"Madrid","Wrong3":"Tokyo"}',
+  '{"ky2": "bar2", "ky1": "foo2"}',
+  
 );
 
 foreach ($errors as $error)
