@@ -12,5 +12,6 @@ foreach ($errors as $error)
 {
     echo "<br />Error: " . $error;
 }
+echo "Banana 2345 new build erer ";
 
 ?>
